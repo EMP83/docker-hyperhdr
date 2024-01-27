@@ -1,7 +1,7 @@
 FROM lsiobase/ubuntu:focal
 
 ARG DEBIAN_FRONTEND="noninteractive"
-ARG HYPERHDR_URL="https://github.com/awawa-dev/HyperHDR/releases/download"
+ARG HYPERHDR_URL="https://github.com/awawa-dev/HyperHDR/releases"
 ARG HYPERHDR_VERSION=
 ARG ARCH=
 
